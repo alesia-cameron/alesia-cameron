@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-⚡ I'm an ECE @ the University of Washington | Chair of IEEE Women in Engineering (WiE) at UW Seattle | Research Assistant at the Washington Nanofabrication Facility
-
-🔬 Interested in semiconductors, VLSI, FPGAs, space systems, and cool hardware.
-
-🚀 Always excited to explore new technologies, build cool things, and solve engineering challenges.
+⚡ ECE @ the University of Washington 
 
 
 <!--
